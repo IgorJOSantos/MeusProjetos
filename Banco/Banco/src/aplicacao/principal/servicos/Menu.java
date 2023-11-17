@@ -12,7 +12,7 @@ public class Menu {
                 3 - Depósito
                 4 - Transferir
                 5 - Sair
-                """;;
+                """;
     public String getMenu() {
        return this.menu;
     }
